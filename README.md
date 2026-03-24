@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuying my 3rd year of bca at seshadripuram college, Tumkur<br>I'm looking to collabarate on data analytics projects, python base solutions and real world problem solving ideas<br>Improving my data analytics skills and building industrial level projects<br>I'm currently learning python, sql, my-sql, excel, html, data analytics , machine learning basics<br>Ask me about mysql , excel, html <br>Football , badminton , cricket<br>
+I'm currently pursuying my 2nd year of bca at seshadripuram college, Tumkur<br>I'm looking to collabarate on data analytics projects, python base solutions and real world problem solving ideas<br>Improving my data analytics skills and building industrial level projects<br>I'm currently learning python, sql, my-sql, excel, html, data analytics , machine learning basics<br>Ask me about mysql , excel, html <br>Football , badminton , cricket<br>
 
 
 ## 🌐 Socials:
